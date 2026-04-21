@@ -1,0 +1,101 @@
+sale_id,car_model,car_variant,showroom_location,sale_date,sale_amount,financing_type,sales_executive,customer_city,created_at
+1,Mahindra XUV700,MX,Hinjewadi,2026-04-05,1994194.00,Cash,Sneha Patil,Mumbai,2026-04-06 00:06:00
+2,Mahindra XUV700,MX,Magarpatta,2026-02-24,1866663.00,Cash,Rahul Desai,Mumbai,2026-02-24 08:32:00
+3,Kia Seltos,HTE,Magarpatta,2026-01-26,1540726.00,In-House Finance,Rohan Joshi,Satara,2026-01-26 08:28:00
+4,Kia Seltos,HTK+,Hinjewadi,2026-04-08,1283707.00,In-House Finance,Priya Shinde,Kolhapur,2026-04-08 09:09:00
+5,Tata Nexon,XZA+,Hinjewadi,2026-01-12,1199191.00,Cash,Amit Kulkarni,Kolhapur,2026-01-12 20:16:00
+6,Maruti Swift,ZXI+ AMT,Magarpatta,2026-01-16,898461.00,Cash,Rohan Joshi,Kolhapur,2026-01-16 21:39:00
+7,Hyundai Creta,EX,Hinjewadi,2026-01-06,1646692.00,Cash,Amit Kulkarni,Pune,2026-01-06 08:55:00
+8,Maruti Swift,ZXI+ AMT,Baner,2026-02-28,1033281.00,Bank Loan,Sneha Patil,Kolhapur,2026-02-28 12:13:00
+9,Mahindra XUV700,AX5,Hinjewadi,2026-03-19,2182911.00,Cash,Rohan Joshi,Nashik,2026-03-19 08:10:00
+10,Mahindra Thar,LX,Baner,2026-03-23,1842002.00,Cash,Pooja Jadhav,Kolhapur,2026-03-23 02:14:00
+11,Maruti Swift,ZXI,Kothrud,2026-02-04,734701.00,Cash,Rohan Joshi,Nashik,2026-02-04 11:13:00
+12,Mahindra XUV700,AX7L,Kothrud,2026-03-24,2090570.00,Cash,Amit Kulkarni,Mumbai,2026-03-24 08:47:00
+13,Kia Seltos,GTX+ DCT,Baner,2026-04-06,1506491.00,Bank Loan,Rohan Joshi,Satara,2026-04-06 12:14:00
+14,Tata Nexon,Fearless,Hinjewadi,2026-04-07,1024702.00,Cash,Sneha Patil,Nashik,2026-04-07 06:50:00
+15,Mahindra XUV700,AX7L,Magarpatta,2026-01-09,2051728.00,Bank Loan,Rohan Joshi,Satara,2026-01-09 17:16:00
+16,Kia Seltos,HTE,Hinjewadi,2026-03-29,1481527.00,Bank Loan,Pooja Jadhav,Kolhapur,2026-03-29 04:18:00
+17,Mahindra Thar,AX(O),Kothrud,2026-01-01,1688091.00,In-House Finance,Sneha Patil,Sangli,2026-01-01 04:55:00
+18,Mahindra XUV700,AX5,Magarpatta,2026-03-19,1954286.00,Cash,Amit Kulkarni,Mumbai,2026-03-19 18:49:00
+19,Kia Seltos,HTE,Magarpatta,2026-02-11,1456170.00,Cash,Rahul Desai,Kolhapur,2026-02-11 10:15:00
+20,Maruti Swift,VXI,Magarpatta,2026-01-11,744907.00,In-House Finance,Priya Shinde,Pune,2026-01-11 18:49:00
+21,Tata Nexon,XM,Kothrud,2026-03-12,1086574.00,Bank Loan,Rohan Joshi,Sangli,2026-03-12 14:13:00
+22,Kia Seltos,GTX+ DCT,Wakad,2026-04-02,1363429.00,Bank Loan,Pooja Jadhav,Nashik,2026-04-02 12:28:00
+23,Kia Seltos,HTK+,Hinjewadi,2026-02-01,1317806.00,Cash,Amit Kulkarni,Pune,2026-02-01 19:35:00
+24,Tata Nexon,XM,Hinjewadi,2026-01-10,1330879.00,Cash,Sneha Patil,Pune,2026-01-10 02:55:00
+25,Hyundai Creta,E,Magarpatta,2026-01-31,1446002.00,In-House Finance,Priya Shinde,Mumbai,2026-01-31 18:08:00
+26,Mahindra XUV700,AX7L,Wakad,2026-04-11,2097974.00,Bank Loan,Sneha Patil,Pune,2026-04-11 04:42:00
+27,Mahindra Thar,LX,Kothrud,2026-02-22,1794855.00,In-House Finance,Rahul Desai,Nashik,2026-02-22 21:41:00
+28,Maruti Swift,LXI,Kothrud,2026-04-04,877892.00,Cash,Sneha Patil,Mumbai,2026-04-04 07:34:00
+29,Mahindra Thar,AX(O),Kothrud,2026-01-24,1696037.00,Bank Loan,Sneha Patil,Pune,2026-01-24 15:51:00
+30,Kia Seltos,HTE,Hinjewadi,2026-03-25,1483423.00,Cash,Rahul Desai,Mumbai,2026-03-25 06:26:00
+31,Mahindra Thar,LX,Wakad,2026-02-21,1580741.00,Cash,Priya Shinde,Pune,2026-02-21 13:16:00
+32,Mahindra Thar,LX,Kothrud,2026-03-31,1841382.00,In-House Finance,Pooja Jadhav,Satara,2026-03-31 05:12:00
+33,Hyundai Creta,EX,Hinjewadi,2026-03-16,1584266.00,Cash,Pooja Jadhav,Kolhapur,2026-03-16 02:03:00
+34,Kia Seltos,HTK+,Magarpatta,2026-03-09,1282540.00,Cash,Rohan Joshi,Pune,2026-03-09 06:04:00
+35,Kia Seltos,HTE,Wakad,2026-02-21,1262855.00,In-House Finance,Sneha Patil,Sangli,2026-02-21 20:02:00
+36,Kia Seltos,HTE,Kothrud,2026-03-26,1506012.00,In-House Finance,Rohan Joshi,Kolhapur,2026-03-26 09:13:00
+37,Mahindra XUV700,AX5,Wakad,2026-02-03,2057505.00,Cash,Pooja Jadhav,Nashik,2026-02-03 10:29:00
+38,Hyundai Creta,E,Hinjewadi,2026-02-28,1625666.00,In-House Finance,Rahul Desai,Pune,2026-02-28 18:13:00
+39,Kia Seltos,HTK+,Wakad,2026-02-14,1236066.00,Cash,Amit Kulkarni,Kolhapur,2026-02-14 06:28:00
+40,Kia Seltos,GTX+ DCT,Baner,2026-03-20,1542871.00,In-House Finance,Rahul Desai,Nashik,2026-03-20 18:19:00
+41,Mahindra XUV700,MX,Wakad,2026-02-03,1910517.00,Cash,Pooja Jadhav,Sangli,2026-02-03 05:17:00
+42,Hyundai Creta,EX,Baner,2026-01-27,1632523.00,Bank Loan,Rohan Joshi,Satara,2026-01-27 09:57:00
+43,Maruti Swift,LXI,Kothrud,2026-04-17,845060.00,Cash,Rahul Desai,Kolhapur,2026-04-17 05:40:00
+44,Hyundai Creta,EX,Kothrud,2026-03-12,1524231.00,In-House Finance,Rahul Desai,Pune,2026-03-12 03:56:00
+45,Mahindra XUV700,AX3,Magarpatta,2026-01-05,2043575.00,In-House Finance,Rohan Joshi,Mumbai,2026-01-05 14:08:00
+46,Maruti Swift,ZXI,Baner,2026-04-12,720916.00,Bank Loan,Sneha Patil,Nashik,2026-04-12 08:42:00
+47,Maruti Swift,ZXI,Magarpatta,2026-02-22,1025405.00,In-House Finance,Sneha Patil,Mumbai,2026-02-22 06:51:00
+48,Tata Nexon,Fearless,Hinjewadi,2026-01-23,1174160.00,Bank Loan,Pooja Jadhav,Nashik,2026-01-23 08:17:00
+49,Tata Nexon,XE,Kothrud,2026-01-05,1246777.00,Cash,Sneha Patil,Satara,2026-01-05 12:19:00
+50,Tata Nexon,XM,Hinjewadi,2026-03-26,1101255.00,Bank Loan,Amit Kulkarni,Kolhapur,2026-03-26 03:49:00
+51,Hyundai Creta,SX,Magarpatta,2026-02-21,1581131.00,Bank Loan,Rahul Desai,Pune,2026-02-21 09:11:00
+52,Kia Seltos,HTK+,Hinjewadi,2026-01-14,1512775.00,Bank Loan,Amit Kulkarni,Nashik,2026-01-14 11:27:00
+53,Kia Seltos,GTX+ DCT,Hinjewadi,2026-02-19,1502298.00,Cash,Amit Kulkarni,Pune,2026-02-19 23:27:00
+54,Maruti Swift,VXI,Baner,2026-02-25,736686.00,In-House Finance,Amit Kulkarni,Sangli,2026-02-25 11:42:00
+55,Maruti Swift,ZXI,Magarpatta,2026-02-09,1049643.00,Bank Loan,Amit Kulkarni,Satara,2026-02-09 23:18:00
+56,Kia Seltos,HTE,Wakad,2026-02-23,1548614.00,Bank Loan,Pooja Jadhav,Nashik,2026-02-23 06:39:00
+57,Kia Seltos,HTK+,Kothrud,2026-03-12,1200212.00,Bank Loan,Amit Kulkarni,Mumbai,2026-03-12 14:50:00
+58,Kia Seltos,GTX+ DCT,Baner,2026-03-01,1431623.00,Bank Loan,Pooja Jadhav,Mumbai,2026-03-01 17:30:00
+59,Mahindra XUV700,AX3,Hinjewadi,2026-02-06,2120245.00,In-House Finance,Pooja Jadhav,Sangli,2026-02-06 11:05:00
+60,Tata Nexon,XZA+,Wakad,2026-04-14,1104401.00,Cash,Rahul Desai,Pune,2026-04-14 08:30:00
+61,Kia Seltos,HTE,Kothrud,2026-02-23,1530178.00,In-House Finance,Sneha Patil,Nashik,2026-02-23 23:24:00
+62,Mahindra Thar,LX,Wakad,2026-01-19,1893963.00,In-House Finance,Rahul Desai,Pune,2026-01-19 14:14:00
+63,Tata Nexon,Fearless,Hinjewadi,2026-03-13,1130651.00,Cash,Priya Shinde,Mumbai,2026-03-13 15:42:00
+64,Kia Seltos,GTX+ DCT,Magarpatta,2026-02-10,1432035.00,In-House Finance,Pooja Jadhav,Sangli,2026-02-10 14:53:00
+65,Kia Seltos,HTK+,Wakad,2026-04-06,1448866.00,Bank Loan,Amit Kulkarni,Mumbai,2026-04-06 21:17:00
+66,Kia Seltos,HTK+,Wakad,2026-02-05,1430619.00,Cash,Pooja Jadhav,Kolhapur,2026-02-05 08:17:00
+67,Hyundai Creta,SX,Magarpatta,2026-01-11,1372547.00,Cash,Sneha Patil,Satara,2026-01-11 23:09:00
+68,Mahindra XUV700,AX3,Hinjewadi,2026-02-23,2063699.00,Bank Loan,Rohan Joshi,Satara,2026-02-23 14:03:00
+69,Tata Nexon,Fearless,Kothrud,2026-04-09,1306225.00,In-House Finance,Rahul Desai,Sangli,2026-04-09 13:30:00
+70,Maruti Swift,ZXI,Baner,2026-04-07,904465.00,Bank Loan,Rohan Joshi,Nashik,2026-04-08 00:34:00
+71,Kia Seltos,HTE,Kothrud,2026-01-29,1343096.00,Bank Loan,Priya Shinde,Pune,2026-01-29 13:21:00
+72,Mahindra XUV700,AX7L,Wakad,2026-04-18,2095047.00,Cash,Rohan Joshi,Sangli,2026-04-18 01:58:00
+73,Mahindra Thar,Earth Edition,Magarpatta,2026-03-26,1564209.00,Cash,Pooja Jadhav,Satara,2026-03-26 05:55:00
+74,Mahindra Thar,AX(O),Hinjewadi,2026-02-03,1748759.00,Bank Loan,Sneha Patil,Satara,2026-02-03 11:21:00
+75,Mahindra Thar,LX,Kothrud,2026-02-02,1592942.00,Bank Loan,Rahul Desai,Nashik,2026-02-02 18:03:00
+76,Hyundai Creta,EX,Hinjewadi,2026-04-10,1641707.00,Cash,Rahul Desai,Mumbai,2026-04-10 07:53:00
+77,Maruti Swift,VXI,Wakad,2026-01-17,948282.00,In-House Finance,Rahul Desai,Sangli,2026-01-17 07:29:00
+78,Mahindra XUV700,AX5,Baner,2026-01-22,2167662.00,In-House Finance,Pooja Jadhav,Nashik,2026-01-22 04:49:00
+79,Tata Nexon,XZA+,Hinjewadi,2026-03-16,1013462.00,Bank Loan,Rohan Joshi,Nashik,2026-03-16 13:25:00
+80,Mahindra XUV700,AX3,Hinjewadi,2026-03-17,2178855.00,Cash,Rahul Desai,Nashik,2026-03-17 10:54:00
+81,Mahindra XUV700,MX,Magarpatta,2026-04-11,1871532.00,Bank Loan,Rohan Joshi,Satara,2026-04-11 22:23:00
+82,Maruti Swift,ZXI,Hinjewadi,2026-04-19,920231.00,Bank Loan,Rahul Desai,Satara,2026-04-19 12:40:00
+83,Mahindra Thar,Earth Edition,Wakad,2026-02-25,1642346.00,In-House Finance,Rohan Joshi,Nashik,2026-02-25 09:39:00
+84,Kia Seltos,HTK+,Kothrud,2026-02-25,1510627.00,Bank Loan,Amit Kulkarni,Mumbai,2026-02-25 03:17:00
+85,Mahindra Thar,AX(O),Kothrud,2026-03-14,1869989.00,In-House Finance,Priya Shinde,Kolhapur,2026-03-14 01:31:00
+86,Hyundai Creta,EX,Kothrud,2026-01-28,1486030.00,Bank Loan,Amit Kulkarni,Kolhapur,2026-01-28 20:44:00
+87,Hyundai Creta,E,Magarpatta,2026-01-25,1344885.00,Cash,Pooja Jadhav,Satara,2026-01-25 16:35:00
+88,Tata Nexon,Fearless,Kothrud,2026-02-27,1009040.00,Cash,Amit Kulkarni,Mumbai,2026-02-27 13:44:00
+89,Tata Nexon,XZA+,Magarpatta,2026-02-17,1248124.00,In-House Finance,Rohan Joshi,Kolhapur,2026-02-17 14:47:00
+90,Kia Seltos,HTK+,Baner,2026-03-31,1437893.00,Bank Loan,Amit Kulkarni,Kolhapur,2026-03-31 08:07:00
+91,Mahindra XUV700,AX3,Baner,2026-01-16,2130947.00,In-House Finance,Sneha Patil,Mumbai,2026-01-16 07:47:00
+92,Mahindra Thar,LX,Magarpatta,2026-04-08,1825060.00,In-House Finance,Amit Kulkarni,Pune,2026-04-08 07:18:00
+93,Tata Nexon,XZA+,Wakad,2026-02-08,1007417.00,In-House Finance,Rohan Joshi,Mumbai,2026-02-08 09:02:00
+94,Maruti Swift,ZXI,Wakad,2026-03-23,957361.00,Cash,Rahul Desai,Sangli,2026-03-23 10:30:00
+95,Mahindra Thar,LX,Baner,2026-01-24,1576936.00,Bank Loan,Priya Shinde,Pune,2026-01-24 03:25:00
+96,Mahindra Thar,AX(O),Magarpatta,2026-03-22,1578106.00,Cash,Sneha Patil,Sangli,2026-03-22 10:05:00
+97,Tata Nexon,XE,Magarpatta,2026-04-08,1218195.00,In-House Finance,Rohan Joshi,Sangli,2026-04-08 08:49:00
+98,Kia Seltos,HTK+,Kothrud,2026-02-26,1355898.00,In-House Finance,Priya Shinde,Kolhapur,2026-02-26 19:39:00
+99,Maruti Swift,LXI,Wakad,2026-03-22,810637.00,Bank Loan,Pooja Jadhav,Pune,2026-03-22 06:15:00
+100,Tata Nexon,XE,Wakad,2026-01-01,1214180.00,Bank Loan,Pooja Jadhav,Sangli,2026-01-01 16:18:00
