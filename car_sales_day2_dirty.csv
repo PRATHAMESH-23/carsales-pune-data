@@ -1,0 +1,56 @@
+sale_id,car_model,car_variant,showroom_location,sale_date,sale_amount,financing_type,sales_executive,customer_city,created_at
+1009,Hyundai Creta,SX,Baner,2024-01-19,1650000,Bank Loan,Rahul Nair,Pune,2024-01-19 10:00:00
+1010,  mArUti SwiFt ,VXI, hinjewadi  ,2024-01-19,750000,Cash,Amit Joshi,Pune,2024-01-19 10:05:00
+1011,Tata Nexon,XZA+,Wakad,2024-01-19,-1200000,In-House Finance,Priya Deshmukh,Mumbai,2024-01-19 10:12:00
+,Kia Seltos,HTX,Kothrud,2024-01-19,1800000,Bank Loan,Sneha Patil,Pune,2024-01-19 10:15:00
+1009,Hyundai Creta,SX,Baner,2024-01-19,1650000,Bank Loan,Rahul Nair,Pune,2024-01-19 10:18:00
+1012, Honda City ,ZX,PIMPRI-CHINCHWAD,2024-01-19,1500000,Cash,Vikram Bhosale,Pune,2024-01-19 10:22:00
+1013,Mahindra XUV700,AX7,Wakad,2024-01-19,2250000,Bank Loan,Amit Joshi,Kolhapur,2024-01-19 10:30:00
+1014,MG Hector,Sharp,Baner,2024-01-19,2000000,Bank Loan,Priya Deshmukh,Pune,2024-01-19 10:45:00
+1015,tata PUNCH,Accomplished,  kothrud,2024-01-19,900000,Cash,Rahul Nair,Pune,2024-01-19 10:50:00
+1016,Maruti Baleno,Alpha,Hinjewadi,2024-01-19,950000,In-House Finance,Sneha Patil,Mumbai,2024-01-19 11:05:00
+1017,Toyota Innova,Crysta,Pimpri-Chinchwad,2024-01-19,2500000,Bank Loan,Vikram Bhosale,Kolhapur,2024-01-19 11:15:00
+1018, Kia Sonet,HTX,Baner,2024-01-19,1200000,Bank Loan,Rahul Nair,Pune,2024-01-19 11:20:00
+,Hyundai Verna,SX(O),Wakad,2024-01-19,1700000,Cash,Amit Joshi,Pune,2024-01-19 11:35:00
+1019,Maruti Swift,ZXI,Kothrud,2024-01-19,0,Bank Loan,Priya Deshmukh,Mumbai,2024-01-19 11:40:00
+1020, Tata Safari ,XZA+,  HINJEWADI  ,2024-01-19,2400000,In-House Finance,Sneha Patil,Pune,2024-01-19 11:55:00
+1021,Honda Amaze,VX,Pimpri-Chinchwad,2024-01-19,980000,Bank Loan,Vikram Bhosale,Pune,2024-01-19 12:00:00
+1022,hyundai i20,Asta,Baner,2024-01-19,1050000,Cash,Rahul Nair,Kolhapur,2024-01-19 12:10:00
+1020, Tata Safari ,XZA+,  HINJEWADI  ,2024-01-19,2400000,In-House Finance,Sneha Patil,Pune,2024-01-19 12:15:00
+1023,Mahindra Thar,LX,Wakad,2024-01-19,1650000,Bank Loan,Amit Joshi,Pune,2024-01-19 12:25:00
+1024,  mG aStOr  ,Savvy,Kothrud,2024-01-19,1750000,Bank Loan,Priya Deshmukh,Pune,2024-01-19 12:30:00
+1025,Kia Seltos,GTX+,Hinjewadi,2024-01-19,-1950000,Cash,Sneha Patil,Mumbai,2024-01-19 12:45:00
+1026,Maruti Ertiga,ZXI+,Pimpri-Chinchwad,2024-01-19,1150000,Bank Loan,Vikram Bhosale,Kolhapur,2024-01-19 13:00:00
+1027,Tata Tiago,XZ+,Baner,2024-01-19,750000,In-House Finance,Rahul Nair,Pune,2024-01-19 13:10:00
+1028,Hyundai Venue,SX,Wakad,2024-01-19,1250000,Bank Loan,Amit Joshi,Pune,2024-01-19 13:20:00
+,Honda City,V,Kothrud,2024-01-19,1350000,Cash,Priya Deshmukh,Kolhapur,2024-01-19 13:30:00
+1029,  ToYoTa fOrTuNeR,Legender,  hinjewadi,2024-01-19,4500000,Bank Loan,Sneha Patil,Pune,2024-01-19 13:45:00
+1030,Mahindra Scorpio-N,Z8,Pimpri-Chinchwad,2024-01-19,2100000,Bank Loan,Vikram Bhosale,Mumbai,2024-01-19 14:00:00
+1031,Maruti Brezza,ZXI,Baner,2024-01-19,1150000,Cash,Rahul Nair,Pune,2024-01-19 14:15:00
+1032,Tata Altroz,XZA,Wakad,2024-01-19,950000,In-House Finance,Amit Joshi,Pune,2024-01-19 14:25:00
+1033,Kia Carens,Luxury Plus,Kothrud,2024-01-19,-1850000,Bank Loan,Priya Deshmukh,Kolhapur,2024-01-19 14:35:00
+1034,hyundai tucson,Signature,Hinjewadi,2024-01-19,3200000,Bank Loan,Sneha Patil,Pune,2024-01-19 14:50:00
+1034,hyundai tucson,Signature,Hinjewadi,2024-01-19,3200000,Bank Loan,Sneha Patil,Pune,2024-01-19 14:55:00
+1035,Honda Elevate,ZX,Pimpri-Chinchwad,2024-01-19,1600000,Cash,Vikram Bhosale,Mumbai,2024-01-19 15:10:00
+1036,  mArUti FrOnX ,Alpha,Baner,2024-01-19,1300000,Bank Loan,Rahul Nair,Kolhapur,2024-01-19 15:20:00
+1037,Tata Harrier,Fearless,Wakad,2024-01-19,2400000,Bank Loan,Amit Joshi,Pune,2024-01-19 15:30:00
+1038,MG Gloster,Savvy,Kothrud,2024-01-19,0,In-House Finance,Priya Deshmukh,Pune,2024-01-19 15:45:00
+,Mahindra Bolero,B6,Hinjewadi,2024-01-19,1050000,Cash,Sneha Patil,Kolhapur,2024-01-19 16:00:00
+1039,Toyota Hyryder,V,Pimpri-Chinchwad,2024-01-19,1900000,Bank Loan,Vikram Bhosale,Pune,2024-01-19 16:15:00
+1040,Hyundai Aura,SX,Baner,2024-01-19,900000,Bank Loan,Rahul Nair,Mumbai,2024-01-19 16:25:00
+1041, Kia Sonet ,HTK+, wakad ,2024-01-19,1050000,Cash,Amit Joshi,Pune,2024-01-19 16:35:00
+1042,Maruti Grand Vitara,Alpha,Kothrud,2024-01-19,1700000,Bank Loan,Priya Deshmukh,Pune,2024-01-19 16:50:00
+1043,Tata Nexon EV,Empowered,Hinjewadi,2024-01-19,1950000,In-House Finance,Sneha Patil,Kolhapur,2024-01-19 17:00:00
+1043,Tata Nexon EV,Empowered,Hinjewadi,2024-01-19,1950000,In-House Finance,Sneha Patil,Kolhapur,2024-01-19 17:05:00
+1044,Honda Amaze,S,Pimpri-Chinchwad,2024-01-19,-800000,Cash,Vikram Bhosale,Pune,2024-01-19 17:15:00
+1045,Mahindra XUV300,W8,Baner,2024-01-19,1300000,Bank Loan,Rahul Nair,Mumbai,2024-01-19 17:25:00
+1046,  hYuNdAi cReTa,SX(O),Wakad,2024-01-19,1900000,Bank Loan,Amit Joshi,Pune,2024-01-19 17:40:00
+1047,MG Comet EV,Plush,Kothrud,2024-01-19,950000,Cash,Priya Deshmukh,Kolhapur,2024-01-19 17:50:00
+,Kia Seltos,HTK,Hinjewadi,2024-01-19,1350000,Bank Loan,Sneha Patil,Pune,2024-01-19 18:00:00
+1048,Toyota Glanza,V,Pimpri-Chinchwad,2024-01-19,1000000,In-House Finance,Vikram Bhosale,Pune,2024-01-19 18:15:00
+1049,Maruti Dzire,ZXI,Baner,2024-01-19,900000,Bank Loan,Rahul Nair,Mumbai,2024-01-19 18:30:00
+1050,Tata Punch,Adventure,Wakad,2024-01-19,800000,Cash,Amit Joshi,Pune,2024-01-19 18:45:00
+1051, Hyundai Exter ,SX,  KOTHRUD,2024-01-19,950000,Bank Loan,Priya Deshmukh,Kolhapur,2024-01-19 19:00:00
+1052,Honda City Hybrid,ZX,Hinjewadi,2024-01-19,-2050000,Bank Loan,Sneha Patil,Pune,2024-01-19 19:15:00
+1053,Mahindra Bolero Neo,N10,Pimpri-Chinchwad,2024-01-19,1150000,In-House Finance,Vikram Bhosale,Pune,2024-01-19 19:30:00
+1054,Kia Carens,Prestige,Baner,2024-01-19,1450000,Cash,Rahul Nair,Kolhapur,2024-01-19 19:45:00
